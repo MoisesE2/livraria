@@ -1,4 +1,4 @@
-# Projeto pensamento de quinta
+# Projeto Livraria
 
 ## 01  - Front
 - React Vite
