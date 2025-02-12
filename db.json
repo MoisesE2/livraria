@@ -1,0 +1,287 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "imgSrc": "/assets/images/livro2.png",
+      "price": 44.90,
+      "title": "Cadê o vazio que estava aqui?",
+      "authorId": 2,
+      "sinopse": "Gênero Poesia Temas reflexão, sonhos, ressignificar, saudade, auto desenvolvimento, amor, memórias, esperança",
+      "editora": "Editora Pensamentos de Quinta",
+      "paginas": 126,
+      "ano": 2020,
+      "edicao": "1ª",
+      "thumbnailImages": ["/assets/images/livro2.png", "/assets/images/thumb1.jpg", "/assets/images/thumb1.1.jpg", "/assets/images/thumb1.2.jpg", "/assets/images/thumb1.3.jpg"],
+      "launch": false,
+      "highlight": true,
+      "eBook": false
+    },
+    {
+      "id": 2,
+      "imgSrc": "/assets/images/livro1.png",
+      "price": 2.99,
+      "title": "O que Guardei na Gaveta",
+      "authorId": 1,
+      "sinopse": "Desde tempos imemoriais, o ser humano ansiava por formas de registrar a passagem inexorável do tempo. Horas, fases lunares, calendários são ferramentas utilizadas para medir nossa existência neste planeta. No entanto, quando um evento de proporções avassaladoras ameaça aniquilar uma vida, tudo muda e a escrita passa a ser uma aliada na marcação do tempo e duração dos dias. O que Guardei na Gaveta é uma coleção de poemas, escritos não apenas para registrar o cotidiano com todas as suas cores, amores, prazeres e desilusões, mas também para servir como um cronômetro dos dias vividos. Por se tratar de um registro íntimo de uma vida que se atreveu a viver intensamente, nem todos os poemas foram retirados da gaveta. No entanto, os que figuram nas páginas deste livro são uma pequena amostra do que se esconde no âmago de um coração apaixonado.",
+      "editora": "Editora Pensamentos de Quinta",
+      "paginas": 106,
+      "ano": 2020,
+      "edicao": "1ª",
+      "thumbnailImages": ["/assets/images/livro1.png", "/assets/images/livro.png", "/assets/images/livroComentarios.png"],
+      "launch": true,
+      "highlight": true,
+      "eBook": false
+    },
+    {
+      "id": 3,
+      "imgSrc": "/assets/images/livro3.jpg",
+      "price": 37.90,
+      "title": "Poemas de quando eu era assim",
+      "authorId": 2,
+      "sinopse": "Genero: Poesia Reflexão, vida, sentimentos, auto-reforma, amor, saudade",
+      "editora": "Editora Pensamentos de Quinta",
+      "paginas": 80,
+      "ano": 2020,
+      "edicao": "1ª",
+      "thumbnailImages": ["/assets/images/livro3.jpg", "/assets/images/thumb2.jpg", "/assets/images/thumb2.1.jpg", "/assets/images/thumb2.2.jpg"],
+      "launch": false,
+      "highlight": false,
+      "eBook": false
+    },
+    {
+      "id": 4,
+      "imgSrc": "/assets/images/livro4.jpg",
+      "price": 1.99,
+      "title": "Lembranças Esquecidas e Outras Memórias",
+      "authorId": 1,
+      "sinopse": "Lembranças Esquecidas e Outras Memórias fala de fragmentos de sentimentos, de recortes de saudades, de resgate da nossa história. É um convite para revisitar momentos que foram marcantes em nossas vidas. É uma porta de acesso para tudo que foi importante. Foi escrito para ser o início de uma jornada que te faça lembrar de memórias boas como encontros, descobertas, primeiros beijos e abraços infindáveis. Que a leitura te inspire a lembrar destas e de muitas outras lembranças esquecidas.",
+      "editora": "Editora Pensamentos de Quinta",
+      "paginas": 64,
+      "ano": 2020,
+      "edicao": "1ª",
+      "thumbnailImages": ["/assets/images/livro4.jpg"],
+      "launch": true,
+      "highlight": false,
+      "eBook": true
+    },
+    {
+      "id": 5,
+      "imgSrc": "/assets/images/livro2.png",
+      "price": 44.90,
+      "title": "Cadê o vazio que estava aqui?",
+      "authorId": 2,
+      "sinopse": "Gênero Poesia Temas reflexão, sonhos, ressignificar, saudade, auto desenvolvimento, amor, memórias, esperança",
+      "editora": "Editora Pensamentos de Quinta",
+      "paginas": 126,
+      "ano": 2020,
+      "edicao": "1ª",
+      "thumbnailImages": ["/assets/images/livro2.png", "/assets/images/thumb1.jpg", "/assets/images/thumb1.1.jpg", "/assets/images/thumb1.2.jpg", "/assets/images/thumb1.3.jpg"],
+      "launch": false,
+      "highlight": true,
+      "eBook": false
+    },
+    {
+      "id": 6,
+      "imgSrc": "/assets/images/livro2.png",
+      "price": 44.90,
+      "title": "Cadê o vazio que estava aqui?",
+      "authorId": 2,
+      "sinopse": "Gênero Poesia Temas reflexão, sonhos, ressignificar, saudade, auto desenvolvimento, amor, memórias, esperança",
+      "editora": "Editora Pensamentos de Quinta",
+      "paginas": 126,
+      "ano": 2020,
+      "edicao": "1ª",
+      "thumbnailImages": ["/assets/images/livro2.png", "/assets/images/thumb1.jpg", "/assets/images/thumb1.1.jpg", "/assets/images/thumb1.2.jpg", "/assets/images/thumb1.3.jpg"],
+      "launch": false,
+      "highlight": true,
+      "eBook": false
+    },
+    {
+      "id": 10,
+      "imgSrc": "/assets/images/livro2.png",
+      "price": 44.90,
+      "title": "Cadê o vazio que estava aqui?",
+      "authorId": 2,
+      "sinopse": "Gênero Poesia Temas reflexão, sonhos, ressignificar, saudade, auto desenvolvimento, amor, memórias, esperança",
+      "editora": "Editora Pensamentos de Quinta",
+      "paginas": 126,
+      "ano": 2020,
+      "edicao": "1ª",
+      "thumbnailImages": ["/assets/images/livro2.png", "/assets/images/thumb1.jpg", "/assets/images/thumb1.1.jpg", "/assets/images/thumb1.2.jpg", "/assets/images/thumb1.3.jpg"],
+      "launch": false,
+      "highlight": true,
+      "eBook": false
+    },
+    {
+      "id": 9,
+      "imgSrc": "/assets/images/livro2.png",
+      "price": 44.90,
+      "title": "Cadê o vazio que estava aqui?",
+      "authorId": 2,
+      "sinopse": "Gênero Poesia Temas reflexão, sonhos, ressignificar, saudade, auto desenvolvimento, amor, memórias, esperança",
+      "editora": "Editora Pensamentos de Quinta",
+      "paginas": 126,
+      "ano": 2020,
+      "edicao": "1ª",
+      "thumbnailImages": ["/assets/images/livro2.png", "/assets/images/thumb1.jpg", "/assets/images/thumb1.1.jpg", "/assets/images/thumb1.2.jpg", "/assets/images/thumb1.3.jpg"],
+      "launch": false,
+      "highlight": true,
+      "eBook": false
+    },
+    {
+      "id": 8,
+      "imgSrc": "/assets/images/livro2.png",
+      "price": 44.90,
+      "title": "Cadê o vazio que estava aqui?",
+      "authorId": 2,
+      "sinopse": "Gênero Poesia Temas reflexão, sonhos, ressignificar, saudade, auto desenvolvimento, amor, memórias, esperança",
+      "editora": "Editora Pensamentos de Quinta",
+      "paginas": 126,
+      "ano": 2020,
+      "edicao": "1ª",
+      "thumbnailImages": ["/assets/images/livro2.png", "/assets/images/thumb1.jpg", "/assets/images/thumb1.1.jpg", "/assets/images/thumb1.2.jpg", "/assets/images/thumb1.3.jpg"],
+      "launch": false,
+      "highlight": true,
+      "eBook": false
+    }
+  ],
+  "autores": [
+    {
+      "id": 1,
+      "name": "Driana Campos",
+      "bio": "Driana Campos, nascida no longínquo ano de 1974, no estado de Goiás e há 22 anos fez de São Paulo sua morada. Cresceu na companhia de livros, animais de estimação e com muitas brincadeiras ao ar livre. Desde cedo acalentava a ideia de escrever as próprias histórias e seus primeiros textos surgiram no início da adolescência. Também foi na adolescência que descobriu que poderia falar sobre seus sentimentos usando a poesia. Quando não está lendo, escrevendo ou cuidando das suas orquídeas, gosta de ir para estradas explorar cidadezinhas do interior do estado. Há vinte anos acalenta o desejo de tirar da gaveta poemas, crônicas, contos e um romance. Lembranças Esquecidas e Outras Memórias é seu livro de estreia.",
+      "foto": "/assets/images/Driana.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Carlos H. F. Gomes",
+      "bio": "Carlos é de São Paulo. Foi um dos organizadores do Projeto “A Arte do Terror” por dois anos, tendo em suas páginas seis contos. Publicou cinco contos em e-book e dois livros de poemas Participou de cerca de vinte antologias (provavelmente foram mais), a maioria de terror e horror, além de poesia, romance romântico, drama, causos e ufologia.",
+      "foto": "/assets/images/Carlos_hf.jpg"
+    },
+    {
+      "id": 3,
+      "name": "George Orwell",
+      "bio": "George Orwell foi um escritor britânico, renomado por suas críticas sociais em '1984' e 'Revolução dos Bichos'.",
+      "foto": "/assets/images/George_Orwell.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Clarice Lispector",
+      "bio": "Clarice Lispector foi uma escritora brasileira, reconhecida por sua profundidade psicológica.",
+      "foto": "/assets/images/Clarice_Lispector.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "André Luiz",
+      "email": "andre@example.com",
+      "address": null,
+      "phone": null,
+      "admin": 0
+    },
+    {
+      "id": 2,
+      "name": "Maria Silva",
+      "email": "maria@example.com",
+      "address": null,
+      "phone": null,
+      "admin": 0
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "productId": 2
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "productId": 4
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "productId": 2
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "productId": 3
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "productId": 4
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "userId": 1,
+      "street": "Rua A",
+      "city": "Cidade B",
+      "state": "Estado C",
+      "zipCode": "12345-678"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "street": "Rua X",
+      "city": "Cidade Y",
+      "state": "Estado Z",
+      "zipCode": "87654-321"
+    }
+  ],
+  "discounts": [
+    {
+      "id": 1,
+      "name": "natal20",
+      "orderId": 101,
+      "description": "Desconto de Natal",
+      "percentage": 20
+    },
+    {
+      "id": 2,
+      "name": "livraria10",
+      "orderId": 102,
+      "description": "Desconto de Parceiro",
+      "percentage": 10
+    }
+  ],
+  "orders": [
+    {
+      "id": 23567,
+      "userId": 1,
+      "products": [1, 2],
+      "totalPrice": 189.70,
+      "status": 2,
+      "paymentMethod": "creditCard",
+      "orderDate": "2024-03-15T12:00:00Z"
+    },
+    {
+      "id": 23566,
+      "userId": 1,
+      "products": [3],
+      "totalPrice": 89.90,
+      "status": 0,
+      "paymentMethod": "pix",
+      "orderDate": "2024-03-14T14:30:00Z"
+    },
+    {
+      "id": 23565,
+      "userId": 2,
+      "products": [4],
+      "totalPrice": 127.80,
+      "status": 1,
+      "paymentMethod": "boleto",
+      "orderDate": "2024-03-13T09:15:00Z"
+    }
+  ]
+}
